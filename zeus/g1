@@ -1,0 +1,7 @@
+public class Hello world {
+
+   public static voi main(string[] args) {
+       // prints "Hello, world" to the terminal window.
+       System.out.println9Hello, world");
+   }
+}
